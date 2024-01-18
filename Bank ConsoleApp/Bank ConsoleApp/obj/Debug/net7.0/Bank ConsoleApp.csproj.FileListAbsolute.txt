@@ -1,0 +1,29 @@
+C:\Users\Decagon\source\repos\Tasks\Bank ConsoleApp\Bank ConsoleApp\obj\Debug\net7.0\Bank ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\Tasks\Bank ConsoleApp\Bank ConsoleApp\obj\Debug\net7.0\Bank ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\Tasks\Bank ConsoleApp\Bank ConsoleApp\obj\Debug\net7.0\Bank ConsoleApp.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\Tasks\Bank ConsoleApp\Bank ConsoleApp\obj\Debug\net7.0\Bank ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\Tasks\Bank ConsoleApp\Bank ConsoleApp\bin\Debug\net7.0\Bank ConsoleApp.exe
+C:\Users\Decagon\source\repos\Tasks\Bank ConsoleApp\Bank ConsoleApp\bin\Debug\net7.0\Bank ConsoleApp.deps.json
+C:\Users\Decagon\source\repos\Tasks\Bank ConsoleApp\Bank ConsoleApp\bin\Debug\net7.0\Bank ConsoleApp.runtimeconfig.json
+C:\Users\Decagon\source\repos\Tasks\Bank ConsoleApp\Bank ConsoleApp\bin\Debug\net7.0\Bank ConsoleApp.dll
+C:\Users\Decagon\source\repos\Tasks\Bank ConsoleApp\Bank ConsoleApp\bin\Debug\net7.0\Bank ConsoleApp.pdb
+C:\Users\Decagon\source\repos\Tasks\Bank ConsoleApp\Bank ConsoleApp\obj\Debug\net7.0\Bank ConsoleApp.dll
+C:\Users\Decagon\source\repos\Tasks\Bank ConsoleApp\Bank ConsoleApp\obj\Debug\net7.0\refint\Bank ConsoleApp.dll
+C:\Users\Decagon\source\repos\Tasks\Bank ConsoleApp\Bank ConsoleApp\obj\Debug\net7.0\Bank ConsoleApp.pdb
+C:\Users\Decagon\source\repos\Tasks\Bank ConsoleApp\Bank ConsoleApp\obj\Debug\net7.0\Bank ConsoleApp.genruntimeconfig.cache
+C:\Users\Decagon\source\repos\Tasks\Bank ConsoleApp\Bank ConsoleApp\obj\Debug\net7.0\ref\Bank ConsoleApp.dll
+C:\Users\Decagon\source\repos\Tasks\Bank ConsoleApp\Bank ConsoleApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Decagon\source\repos\Tasks\Bank ConsoleApp\Bank ConsoleApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Decagon\source\repos\Tasks\Bank ConsoleApp\Bank ConsoleApp\bin\Debug\net7.0\Stripe.net.dll
+C:\Users\Decagon\source\repos\Tasks\Bank ConsoleApp\Bank ConsoleApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Decagon\source\repos\Tasks\Bank ConsoleApp\Bank ConsoleApp\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Decagon\source\repos\Tasks\Bank ConsoleApp\Bank ConsoleApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Decagon\source\repos\Tasks\Bank ConsoleApp\Bank ConsoleApp\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Decagon\source\repos\Tasks\Bank ConsoleApp\Bank ConsoleApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Decagon\source\repos\Tasks\Bank ConsoleApp\Bank ConsoleApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Decagon\source\repos\Tasks\Bank ConsoleApp\Bank ConsoleApp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Decagon\source\repos\Tasks\Bank ConsoleApp\Bank ConsoleApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Decagon\source\repos\Tasks\Bank ConsoleApp\Bank ConsoleApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Decagon\source\repos\Tasks\Bank ConsoleApp\Bank ConsoleApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Decagon\source\repos\Tasks\Bank ConsoleApp\Bank ConsoleApp\obj\Debug\net7.0\Bank ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\Tasks\Bank ConsoleApp\Bank ConsoleApp\obj\Debug\net7.0\Bank ConsoleApp.csproj.CopyComplete
